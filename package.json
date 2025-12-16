@@ -1,0 +1,17 @@
+{
+  "name": "vite-ts-json-server-crud",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  }
+}
