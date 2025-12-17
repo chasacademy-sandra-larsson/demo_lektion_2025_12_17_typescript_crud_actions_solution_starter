@@ -1,4 +1,5 @@
-
+import { getAllBooks, createBook, updateBook, deleteBook} from "./lib/bookApi"
+import type {Book, NewBook, BookUpdates} from "./types/book"
 
 // DOM Elements
 const bookList = document.querySelector<HTMLUListElement>('#book-list')!;

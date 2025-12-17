@@ -1,19 +1,19 @@
 {
   "books": [
     {
-      "id": "1",
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald"
+      "title": "Krig och Fred",
+      "author": "Leo Tolstoy",
+      "id": 2
     },
     {
-      "id": "2",
-      "title": "1984",
-      "author": "George Orwell"
+      "title": "Bibelns",
+      "author": "Gud",
+      "id": 3
     },
     {
-      "title": "as",
-      "author": "as",
-      "id": "b3aUme4"
+      "title": "Psalmboken",
+      "author": "Någon som kunde sjunga",
+      "id": 4
     }
   ]
 }
